@@ -1,0 +1,14 @@
+H1{
+    color: rgb(28, 238, 46);
+font-family: cursive;
+
+}
+
+.jasper{
+    color: blueviolet;
+    font-family: fantasy;
+}
+
+img:hover {
+    filterhover filter: grayscale(80%);
+}
